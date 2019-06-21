@@ -3,7 +3,7 @@ This is a fully completed pos system.
 - Layered Architecture
 - Singleton, Factory, DAO, DTO, Strategy design patterns
 
-# WholeSalePosWithJPA
+# PosSystem_With_JPA
 
 ### Installation
 
